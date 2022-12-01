@@ -15,6 +15,7 @@
     <td>Express</td>
     <td>JWT</td>
     <td>BCrypt</td>
+    <td>Supervisor</td>
     <td>MongoDB</td>
     <td>POSTSMAN</td>
   </tr>
@@ -22,8 +23,9 @@
   <tr>
     <td>16.13.2</td>
     <td>4.18.2</td>
-    <td> </td>
-    <td> </td>
+    <td>8.5.1</td>
+    <td>5.1.0</td>
+    <td>0.12.0</td>
     <td>6.0</td>
     <td>Free</td>
   </tr>
